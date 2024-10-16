@@ -22,7 +22,7 @@ Education
 🎓 BS in Computer Science<br />
     Clarkson University, 2024
 
-Work
+Work Experience
 ======
 *Researcher* <br />
 Wright State University<br />
