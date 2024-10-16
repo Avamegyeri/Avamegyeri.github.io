@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science Graduate Student at Wright State University. My research is focused in Robotics, specifically human-robot collaboration, looking into how robots can hand off objects in a more human like / natural way. In my free time I volunteer at a cat shelter and play guitar. 
+I'm a Computer Science Graduate Student at Wright State University. My research is focused in Robotics, specifically human-robot collaboration, looking into how robots can hand off objects in a more human-like / natural way. In my free time I volunteer at a cat shelter and play guitar. 
 
 Interests
 ======
