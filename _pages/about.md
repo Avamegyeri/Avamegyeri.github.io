@@ -9,13 +9,37 @@ redirect_from:
 
 I'm a Computer Science Graduate Student at Wright State University. My research is focused in Robotics, specifically human-robot collaboration,looking into how robots can hand off objects in a more human like / natural way. In my free time I volunteer at a cat shelter and play guitar. 
 
+Interests
+======
+- Human-Robot Interaction
+- Robotics
+- Machine Learning
+
 Education
 ======
-- area: PhD in Computer Science
-    institution: Wright State University
-    date_start: 08-2024
-    date_end: 12-2026
-- area: BS in Computer Science
-    institution: Clarkson University
-    date_start: 08-2020
-    date_end: 05-2024
+🎓 PhD in Computer Science
+    Wright State University, 2026
+🎓 BS in Computer Science
+    Clarkson University, 2024
+
+Work
+======
+*Researcher*
+Wright State University
+April 2023 - Present
+Responsibilities include:
+  - Conducted acquisition of a large human-human handover dataset HOH using markerless motion capture. Primary tasks included annotating temporal events, performing frame-to-frame object model alignment using iterative closest point, and creating neural network to automatically infer parameters of handover such as grasp, pose, and timing.
+  - Created GraspPC, a neural network to predict multiple hypotheses of human grasp to inform human-aware robot grasp.
+  - Worked on a collaborative project with Altec (Natick, MA) that leveraged techniques such as Histogram of Gradients and Laplacian of Gaussian with thresholding to detect regions of interest in thermal images. Met with Research Scientists at Altec to present research results.
+
+Skills
+======
+- Python
+- C++
+- Java
+
+Hobbies
+======
+🏀 Basketball
+🐈‍ Cats
+🎸 Guitar
