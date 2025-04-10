@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: static\uploads\Ava_Megyeri_Resume_PhD.pdf
+        url: C:\Users\avame\Desktop\Avamegyeri.github.io\static\uploads\Ava_Megyeri_Resume_PhD.pdf
     design:
       css_class: dark
       background:
@@ -53,6 +53,47 @@ sections:
     design:
       view: article-grid
       columns: 2
+  # - block: collection
+  #   id: Experience
+  #   content:
+  #     title: Experience
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+
+  # - block: collection
+  #   id: Accomplishments
+  #   content:
+  #     title: Accomplishments
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+
+  # - block: collection
+  #   id: Contact
+  #   content:
+  #     title: Contact
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+
+
+
+
+
+
   # - block: collection
   #   content:
   #     title: Recent Publications
