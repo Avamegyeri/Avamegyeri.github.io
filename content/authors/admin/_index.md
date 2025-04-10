@@ -149,7 +149,7 @@ work:
 awards:
   - title: Smart Scholarship Awardee
     url: https://www.smartscholarship.org/smart
-    date: '2025-04-1'
+    date: '2025-04-01'
     awarder: Department of Defense
     # icon: coursera
     summary: |
