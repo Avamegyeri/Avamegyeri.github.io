@@ -53,11 +53,10 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    id: experience
+  - block: resume-experience
     content:
-      title: "Experience"
-      page: experience
+      title: Experience
+      username: admin
     design:
       view: card
 
