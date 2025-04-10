@@ -53,17 +53,14 @@ sections:
     design:
       view: article-grid
       columns: 2
-  # - block: collection
-  #   id: Experience
-  #   content:
-  #     title: Experience
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: page
+    id: experience
+    content:
+      title: "Experience"
+      page: experience
+    design:
+      view: card
+
 
   # - block: collection
   #   id: Accomplishments
