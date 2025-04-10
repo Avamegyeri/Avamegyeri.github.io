@@ -53,7 +53,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: page
+  - block: collection
     id: experience
     content:
       title: "Experience"
