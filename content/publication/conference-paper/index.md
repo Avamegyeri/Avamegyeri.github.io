@@ -56,6 +56,7 @@ image:
   caption: 'GraspPC: Generating Diverse Hand Grasp Point Clouds on Objects'  # This is the caption for the image
   src: '/content/publication/conference-paper/grasppc.jpg'  # This is the file path to your image
   focal_point: 'center'  # Optionally specify focal point if needed (e.g., center)
+  placement: "full"
   preview_only: true  # Set this to 'true' if you just want a preview image
 
 

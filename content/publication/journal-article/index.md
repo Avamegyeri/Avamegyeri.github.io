@@ -37,6 +37,7 @@ featured: true
 image:
   caption: ''
   focal_point: "center"
+  placement: "full"
   preview_only: false
 
 # Associated Projects (optional).
