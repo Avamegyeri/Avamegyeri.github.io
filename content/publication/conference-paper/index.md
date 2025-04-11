@@ -14,8 +14,8 @@ authors:
 # Author notes (optional)
 
 
-date: '2024-07-01T00:00:00Z'
-doi: ''
+date: '2024-08-26'
+doi: '10.1109/RO-MAN60168.2024.10731400'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -50,7 +50,7 @@ url_code: 'https://github.com/Terascale-All-sensing-Research-Studio/GraspPC'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'content\publication\conference-paper\grasppc.jpg'
+  caption: content\publication\conference-paper\grasppc.jpg
   focal_point: ''
   preview_only: false
 
