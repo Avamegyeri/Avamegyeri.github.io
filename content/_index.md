@@ -73,6 +73,16 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
+  - block: hero
+    id: contact   # Add this line
+    content:
+      title: Contact Me
+      text: megyeri dot 2 at wright dot edu # replace with your email
+    design:
+      css_class: light
+      alignment: center
+      background:
+        color: white
 
 
 
