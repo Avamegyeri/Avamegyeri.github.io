@@ -50,7 +50,7 @@ sections:
       view: card
 
 
-  - block: custom
+  - block: collection
     id: awards
     content:
       title: Awards
