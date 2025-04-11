@@ -56,6 +56,7 @@ sections:
 
 
   - block: awards
+    id: awards
     content:
       title: Awards
     design:
