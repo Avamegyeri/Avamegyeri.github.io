@@ -1,51 +1,41 @@
 ---
-title: "An example journal article"
+title: "Using Human-Human Handover Data to Analyze Giver and Receiver Timing Relationships During the Pre-Handover Phase"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+  - admin
+  - Maria Kyrarini
+  - Sean Banerjee
+  - Natasha Banerjee
+
+date: '2024-08-26'
+doi: "10.1109/RO-MAN60168.2024.10731243"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: In *IEEE International Conference on Robot and Human Interactive Communication*
+publication_short: In *IEEE RO-MAN*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The fluency of handover between two agents is important to ensure safety and success of handover. In this work, we study the relationships between the timings of giver and receiver motions in human-human handover interactions, in order to inform human-robot handover. We use giver and receiver hand trajectories  from the Human-Object-Human (HOH) handover dataset to study movement during the pre-handover phase, prior to the point of transfer. We find that human receivers adopt a largely proactive behavior, and plan and start motion early in the pre-handover phase. We also find that human receivers spend much of their motion moving in coordination with the giver, rather than after the giver has reached the transfer point. Further, we find that human receivers may predict future movement of the giver from early giver motion, and adjust their start times accordingly to ensure coordinated grasp at transfer. Our findings suggest that robot receivers should adopt a predictive giver-aware approach to plan motion early, and robot givers should recognize that human receivers may expect giver behavior to be human-like and predictable.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We study the relationships between the timings of giver and receiver motions in human-human handover interactions, in order to inform human-robot handover.
 
-tags:
-- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -54,22 +44,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
