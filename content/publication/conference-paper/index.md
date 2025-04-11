@@ -50,10 +50,10 @@ url_code: 'https://github.com/Terascale-All-sensing-Research-Studio/GraspPC'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: content\publication\conference-paper\grasppc.jpg
-  focal_point: ''
-  preview_only: false
-
+  caption: 'GraspPC: Generating Diverse Hand Grasp Point Clouds on Objects'  # This is the caption for the image
+  src: '/content/publication/conference-paper/grasppc.jpg'  # This is the file path to your image
+  focal_point: ''  # Optionally specify focal point if needed (e.g., center)
+  preview_only: false  # Set this to 'true' if you just want a preview image
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
