@@ -42,10 +42,15 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: resume-experience
+  # - block: resume-experience
+  #   content:
+  #     title: Experience
+  #     username: admin
+  #   design:
+  #     view: card
+  - block: work
     content:
       title: Experience
-      username: admin
     design:
       view: card
 
