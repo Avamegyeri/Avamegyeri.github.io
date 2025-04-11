@@ -26,7 +26,7 @@ abstract: The fluency of handover between two agents is important to ensure safe
 # Summary. An optional shortened abstract.
 summary: We study the relationships between the timings of giver and receiver motions in human-human handover interactions, in order to inform human-robot handover.
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
