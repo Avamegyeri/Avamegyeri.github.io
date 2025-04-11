@@ -50,37 +50,12 @@ sections:
       view: card
 
 
-  - block: collection
-    id: awards
+  - block: resume-experience
     content:
       title: Awards
-      items:
-        - title: Smart Scholarship Awardee
-          url: https://www.smartscholarship.org/smart
-          date: '2025-04-01'
-          awarder: Department of Defense
-          summary: |
-            A prestigious scholarship awarded by the Department of Defense to support academic and research pursuits in the field of AI and robotics.
-
-        - title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-          date: '2023-07-01'
-          awarder: edX
-          icon: edx
-          summary: |
-            Completed a comprehensive course on Blockchain fundamentals covering key concepts such as Bitcoin mechanics and consensus algorithms.
-
-        - title: 'Object-Oriented Programming in R'
-          url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-          certificate_url: https://www.datacamp.com
-          date: '2023-01-21'
-          awarder: datacamp
-          icon: datacamp
-          summary: |
-            Completed an intermediate-level course on Object-Oriented Programming (OOP) in R, gaining skills in S3 and R6 systems for managing complexity in R code.
+      username: admin
     design:
-      view: article-grid
-      columns: 2
+      view: card
 
   # - block: collection
   #   id: Contact
