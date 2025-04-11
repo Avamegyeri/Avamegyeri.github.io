@@ -50,12 +50,12 @@ sections:
       view: card
 
 
-  - block: resume-experience
+  - block: awards
     content:
       title: Awards
-      username: admin
     design:
-      view: card
+      view: article-grid
+      columns: 2
 
   # - block: collection
   #   id: Contact
