@@ -48,10 +48,10 @@ interests:
   - Computer Vision
 
 education:
-  # - area: PhD Artificial Intelligence
-  #   institution: Stanford University
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: Wright State University
+    date_start: 2024-08-26
+    date_end: 2028-08-01
   #   summary: |
   #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   #   button:
@@ -151,8 +151,15 @@ awards:
     url: https://www.smartscholarship.org/smart
     date: '2025-04-01'
     awarder: Department of Defense
-    # icon: coursera
-    summary: |
+  - title: NSF Graduate Research Fellow Honorable Mention
+    url: https://www.research.gov/grfp/AwardeeList.do
+    date: '2025-04-07'
+    awarder: National Science Foundation
+  - title: Excellence in Research Poster Presentation Award
+    url: https://www.wright.edu/event/celebration-of-undergraduate-graduate-research-scholarship-and-creative-activities
+    date: '2025-03-13'
+    awarder: Wright State University
+  
      
 
 ---
