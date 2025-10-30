@@ -1,5 +1,5 @@
 ---
-title: 'GraspPC: Generating Diverse Hand Grasp Point Clouds on Objects'
+title: 'Analysis of Pre-Handover Peak Speed Timing and Behavior for Human Givers and Receivers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,7 +31,6 @@ publication_short: In *IEEE RO-MAN*
 abstract: In this work, we study patterns in the movement times of human participants engaging in object handover during the pre-handover phase, to inform on conducting fluent human-robot handovers. Fluency of object handover between two agents is critical to ensure success of shared overall collaborative goals in the context of larger tasks involving the transferred objects. Human givers and receivers often coordinate their pre-handover movements to ensure fluent transfer, with receivers showing anticipatory behavior and proactive response. Since typical timing patterns of human and robot movements for short-range tasks demonstrate a speedup to a peak speed, and a slowdown to the end point, we analyze relationships between time differences of peak speed attainment relative to start and end (i.e., reach) times, across the giver and receiver. Our work helps inform the design of motion planning algorithms for robots that embody timing patterns during movement that are predictable to the partner.
 
 summary: |
-  We study patterns
 
 
 
