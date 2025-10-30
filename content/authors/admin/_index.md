@@ -57,14 +57,6 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: MS in Computer Science
-    institution: Wright State University
-    date_start: 2024-08-26
-    date_end: 2025-05-03
-    summary: |
-      GPA: 4.0/4.0
-
-      
   - area: BS in Computer Science
     institution: Clarkson University
     date_start: 2020-08-26
