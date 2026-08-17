@@ -52,7 +52,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Perception of Gendered Voice and Expressed Apology in Warehouse Robots'  # This is the caption for the image
-  src: '/content/publication/conference-paper4/featured.png'  # This is the file path to your image
+  src: '/content/publication/conference-paper4/featured.jpg'  # This is the file path to your image
   focal_point: 'center'  # Optionally specify focal point if needed (e.g., center)
   placement: "full"
   preview_only: true  # Set this to 'true' if you just want a preview image

@@ -53,7 +53,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: '"Sorry, I was unable to grab that box": Understanding Perception of Warehouse Robots Expressing Apology'  # This is the caption for the image
-  src: '/content/publication/conference-paper5/featured.png'  # This is the file path to your image
+  src: '/content/publication/conference-paper5/featured.jpg'  # This is the file path to your image
   focal_point: 'center'  # Optionally specify focal point if needed (e.g., center)
   placement: "full"
   preview_only: true  # Set this to 'true' if you just want a preview image
