@@ -38,7 +38,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/avamegyeri/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=K6lHrq8AAAAJ
+    url: https://scholar.google.com/citations?user=hllYOlgAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-9454-5500
 
